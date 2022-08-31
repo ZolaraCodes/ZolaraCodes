@@ -1,5 +1,5 @@
 <p align="center">
-  ![GIF of black Girl on computer.](54147A69-9DA3-4402-A06B-641CED68BE51.gif)
+  ![GIF of black Girl on computer](https://github.com/ZolaraCodes/ZolaraCodes/blob/main/54147A69-9DA3-4402-A06B-641CED68BE51.gif)
 </p>
  
  <p align="center">
