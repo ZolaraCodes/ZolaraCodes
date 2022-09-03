@@ -1,7 +1,8 @@
-<p align="center">
-  ![GIF of black Girl on computer](https://github.com/ZolaraCodes/ZolaraCodes/blob/main/54147A69-9DA3-4402-A06B-641CED68BE51.gif)
+ <p align="center">
+  <img src="https://github.com/ZolaraCodes/ZolaraCodes/blob/main/54147A69-9DA3-4402-A06B-641CED68BE51.gif" alt="animated" />
 </p>
  
+
  <p align="center">
   <img width="460" height="300" src="6E479E3C-16D4-43CA-8C0C-6898D2835C2B.jpeg" alt="black girl in  bed, playing Nintendo switch">
 </p>
