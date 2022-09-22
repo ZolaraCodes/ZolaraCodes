@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ZolaraCodes/ZolaraCodes/blob/main/54147A69-9DA3-4402-A06B-641CED68BE51.gif" alt="Black girl at computer" />
+  <img src="4ED78608-569B-4A69-BBB3-490F5335FCF7.webp" alt="Black elf studying magic"/>
 </p>
  
 <p align="center">
