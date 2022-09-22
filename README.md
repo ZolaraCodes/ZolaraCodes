@@ -13,5 +13,5 @@
  <img align="right" img src="C96455D0-40F8-4130-A6FC-3BA605BF1E07.png" alt="girl with pink hairs, playing on computer." width="300" height="600" title="Optional title">
 
 <p align="left">
-  <img src="0D1A48DE-4735-4915-9A34-5EF867CAB362.gif" alt="Atsuko Jackson" width="400" height="500" />
+  <img src="C020B6D4-3EA3-4E10-91BF-F3B93ABAB709.gif" width="400" height="500" />
 </p>
