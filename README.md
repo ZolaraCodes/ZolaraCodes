@@ -10,7 +10,7 @@
  </p>
   
 <p align="center">
-<img src="E3B4A653-A1B4-4BEA-9B88-AF02A9F75444.png" alt="About me page" width="700" height="500"  />
+<img src="0BE2D0DB-2CA4-4F8A-BB88-C93572F8C369.png" alt="About me page" width="700" height="500"  />
  </p>
  
  <img align="right" img src="70A745AA-ECFC-4B46-B40F-9984E4967BD1.jpeg" alt="Witchy Black girl" width="300" height="600" title="Optional title">
