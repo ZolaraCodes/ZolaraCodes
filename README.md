@@ -9,7 +9,7 @@
 <img src="C3A4A475-2C3D-48B5-B34E-DC411D395EA2.gif" alt="ouija board gif" width="400" height="600"  />
  </p>
   
-<p align="left">
+<p align="right">
 <img src="0BE2D0DB-2CA4-4F8A-BB88-C93572F8C369.png" alt="About me page" width="700" height="500"  />
  </p>
  
