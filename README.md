@@ -5,7 +5,7 @@
 <p align="center">
   <img src="4ED78608-569B-4A69-BBB3-490F5335FCF7.webp" alt="Black elf studying magic"/>
 </p>
- <p align="center">
+ <p align="left">
 <img src="C3A4A475-2C3D-48B5-B34E-DC411D395EA2.gif" alt="ouija board gif" width="400" height="600"  />
  </p>
   
