@@ -16,5 +16,5 @@
  <img align="right" img src="70A745AA-ECFC-4B46-B40F-9984E4967BD1.jpeg" alt="Witchy Black girl" width="300" height="600" title="Optional title">
 
 <p align="left">
-  <img src="C020B6D4-3EA3-4E10-91BF-F3B93ABAB709.gif" alt="black girl with tarot cards" width="400" height="500" />
+  <img src="C020B6D4-3EA3-4E10-91BF-F3B93ABAB709.gif" alt="black girl with tarot cards" width="400" height="300" />
 </p>
