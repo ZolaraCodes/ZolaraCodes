@@ -12,7 +12,7 @@
  </p>
  
  <img align="center" img src="70A745AA-ECFC-4B46-B40F-9984E4967BD1.jpeg" alt="Witchy Black girl" width="300" height="600" title="Optional title">
-<p align="center">
+<p align="right">
 <img src="C3A4A475-2C3D-48B5-B34E-DC411D395EA2.gif" alt="ouija board gif" width="500" height="600"  />
  </p>
 <p align="center">
