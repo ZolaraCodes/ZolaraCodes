@@ -11,7 +11,7 @@
 <img src="0BE2D0DB-2CA4-4F8A-BB88-C93572F8C369.png" alt="About me page" width="600" height="800"  />
  </p>
  
- <img align="left" img src="70A745AA-ECFC-4B46-B40F-9984E4967BD1.jpeg" alt="Witchy Black girl" width="400" height="600" title="Optional title">
+ <img align="center" img src="70A745AA-ECFC-4B46-B40F-9984E4967BD1.jpeg" alt="Witchy Black girl" width="400" height="600" title="Optional title">
 <p align="center">
 <img src="C3A4A475-2C3D-48B5-B34E-DC411D395EA2.gif" alt="ouija board gif" width="500" height="600"  />
  </p>
