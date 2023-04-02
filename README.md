@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="4ED78608-569B-4A69-BBB3-490F5335FCF7.webp" alt="Black elf studying magic"/>
+  <img src="7d07a255678962d30d8717dcf5dbd266.gif" alt="Black elf studying magic"/>
 </p>
  
 <p align="center">
