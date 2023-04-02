@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="441f29cca3367848388d7997aabedfd3.gif" alt="Zolara Codes Spooky Logo" width="970" height="200"/>
+  <img src="441f29cca3367848388d7997aabedfd3.gif" alt="Zolara Codes Spooky Logo" width="970" height="100"/>
 </p>
 
 <p align="center">
