@@ -11,7 +11,7 @@
  </p>
 
 <p align="center">
- <img src="b523c6a6505a72bc5f835c9a768566e0.jpg" alt="Witchy Black girl" width="700" height="900" title="Optional title"/>
+ <img src="b523c6a6505a72bc5f835c9a768566e0.jpg" alt="Witchy Black girl" width="600" height="600" title="Optional title"/>
 </p>
 
 <p align="center">
