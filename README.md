@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="C020B6D4-3EA3-4E10-91BF-F3B93ABAB709.gif" alt="crystal ball gif" width="700" height="900" />
+  <img src="dced61d76f0d61fcc98cec0d7bc88909.jpg" alt="crystal ball gif" width="700" height="900" />
 </p>
 
 
